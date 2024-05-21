@@ -1,0 +1,9 @@
+#reviews h2 i{
+background: green;
+}
+#reviews i.bi-star-fill{
+background: yellow;
+}
+#reviews i.bi-star-half{
+background-color: yellowgreen;
+}
